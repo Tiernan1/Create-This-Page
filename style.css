@@ -1,0 +1,16 @@
+body{
+	background: #00539F;
+}
+#page{
+	background: #00C957;
+	margin-left: 25%;
+	margin-right: 25%;
+	border-color: black;
+	border-style: solid;
+}
+#image{
+	margin: 5%;
+	margin-left: 12.5%;
+	width: 75%;
+	pointer-events: none;
+}
